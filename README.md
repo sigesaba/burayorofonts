@@ -1,6 +1,6 @@
 #ブラよろフォント
 
-ブラックジャックによろしくを素材として使用したアイコンフォント。
+ブラックジャックによろしくを素材として使用したWebフォント。
 
 ##表示例
 [ブラよろフォント](http://webfonts.sigesaba.com/burayoro/)
@@ -13,14 +13,14 @@ index.htmlをブラウザで表示させて下さい。
 ###応用編
 1. burayoro-font.cssを読み込む。
 
-2. クラスにアイコンフォント名を指定する。
+2. クラスにWebフォント名を指定する。
 
 ```
-<i class="[アイコンフォント名] iconfont"></i>
+<i class="[Webフォント名] iconfont"></i>
 ```
 
 ###フォント名
-現在9種類のアイコンフォントがあります。
+現在9種類のWebフォントがあります。
 
 * icon-saito
 * icon-saito-surprised-face
@@ -40,7 +40,7 @@ index.htmlをブラウザで表示させて下さい。
 <i class="icon-kitasaburo iconfont"></i>
 ```
 
-##おまけ: アイコンフォントの作り方
+##おまけ: Webフォントの作り方
 [イラストレーター不要！Twitterアイコン画像をWebフォントに変換しよう | ノイズビン](http://www.sigesaba.com/2014/06/convert-icon-to-webfont.php)
 
 
